@@ -38,7 +38,6 @@ Slackもあります。 Join us! https://fukubernetes-slackin.lolipop.io/
 
 ## [JXUG](https://jxug.connpass.com/)
 
-
 C# で iOS/Android/Mac/Windows Phone/UWP/Windowsストア アプリが作れるモバイル向けクロスプラットフォーム開発ツール Xamarin のユーザーグループイベント管理用ページです。
 
 詳細は facebook の ユーザーグループページ をご参照ください。
