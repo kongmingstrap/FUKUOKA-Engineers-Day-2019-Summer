@@ -9,7 +9,7 @@
 | 10:40 - 10:50 | 未定 | 未定 | 公募セッション |
 | 10:50 - 11:00 | 未定 | 未定 | 公募セッション |
 | 11:00 - 11:15 | コミュニティスポンサーセッション | 未定 | 未定 |
-| 11:15 - 11:30 | コミュニティスポンサーセッション | 未定 | 未定 |
+| 11:15 - 11:30 | コミュニティスポンサーセッション | 未定 | [Kyushu Student Association](https://student-kyushu.connpass.com/) |
 | 11:30 - 11:45 | コミュニティスポンサーセッション | 未定 | [JXUG](https://jxug.connpass.com/) |
 | 11:45 - 12:00 | コミュニティスポンサーセッション | 未定 | [福岡XR部](https://fukuoka-xr-club.connpass.com/) |
 | 12:00 - 13:00 |  | 休憩 | |
@@ -21,8 +21,8 @@
 | 14:15 - 14:30 | コミュニティスポンサーセッション | 未定 | [Fukuoka.NET（ふくてん）](https://fukuten.connpass.com/) |
 | 14:30 - 14:40 |  | 休憩 | |
 | 14:40 - 14:55 | コミュニティスポンサーセッション | 未定 | [福岡 理学部](https://fukuoka-science.connpass.com/) |
-| 14:55 - 15:10 | コミュニティスポンサーセッション | 未定 | 未定 |
-| 15:10 - 15:25 | コミュニティスポンサーセッション | 未定 | 未定 |
+| 14:55 - 15:10 | コミュニティスポンサーセッション | 未定 | [GCPUG福岡（Google Cloud Platform User Group Fukuoka）](https://gcpugfukuoka.connpass.com/) |
+| 15:10 - 15:25 | コミュニティスポンサーセッション | 未定 | [Japan Azure User Group 福岡支部（ふくあず）](https://fukuazu.connpass.com/) |
 | 15:25 - 15:40 | コミュニティスポンサーセッション | 未定 | [Fukuoka.Firebase](https://fukuokafirebase.connpass.com/) |
 | 15:40 - 15:55 | コミュニティスポンサーセッション | 未定 | 未定 |
 | 15:55 - 16:10 | コミュニティスポンサーセッション | 未定 | 未定 |

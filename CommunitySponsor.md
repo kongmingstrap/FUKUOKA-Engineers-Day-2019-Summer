@@ -32,16 +32,18 @@ Slackもあります。 Join us! https://fukubernetes-slackin.lolipop.io/
 
 ## [Fukuoka.Firebase](https://fukuokafirebase.connpass.com/)
 
-福岡でもFirebaseを盛り上げたいと思っている、Firebase使ってみたい、一緒に勉強したいという気持ちを大事にしたいコミュニティです。
-小規模なイベントを定期的に開催し、Firebaseの知見をいい感じに溜めていこうと思ってます。
-みなさん、一緒にFirebaseを盛り上げていきましょう(*´ω`*)
+Fukuoka.Firebaseは福岡でもFirebaseを盛り上げたいと思っているコミュニティです。
+Firebase使ってみたい、一緒に勉強したいという気持ちを大事にコミュニティ運営しています。
+
+LT会やもくもく会など小規模なイベントを定期的に開催し、Firebaseの知見をいい感じに溜めていこうと思ってます。
+
+みなさん、一緒にFirebaseを盛り上げていきましょう(´ω`)
 
 ## [JXUG](https://jxug.connpass.com/)
 
 C# で iOS/Android/Mac/Windows Phone/UWP/Windowsストア アプリが作れるモバイル向けクロスプラットフォーム開発ツール Xamarin のユーザーグループイベント管理用ページです。
 
 詳細は facebook の ユーザーグループページ をご参照ください。
-
 
 ## [fukuoka.ex - Elixir community in Fukuoka -](https://fukuokaex.connpass.com/)
 
@@ -90,3 +92,22 @@ Microsoftも今では様々なアーキテクトをオープンソースで公�
 ## [Scala福岡](https://scala.connpass.com/)
 
 ## [福岡ブロックチェーン勉強会](https://ethfuk.connpass.com/)
+
+## [Kyushu Student Association](https://student-kyushu.connpass.com/)
+
+Kyushu Student Association(KSA)は、九州地方に住む学生エンジニアを支援するために誕生した団体です。 主に勉強会やLT大会を開催し、学生同士の交流を推進していきます。
+
+## [GCPUG福岡（Google Cloud Platform User Group Fukuoka）](https://gcpugfukuoka.connpass.com/)
+
+Google Cloud Platformの情報を学習・共有をするためのユーザー会＠福岡です。
+気軽にご参加ください！
+https://www.facebook.com/groups/696693757105655/
+
+## [Japan Azure User Group 福岡支部（ふくあず）](https://fukuazu.connpass.com/)
+
+Japan Azure User Group 福岡支部（通称ふくあず）はMicrosoft Azureを学び、楽しみ、活かす、日本のユーザーグループです。
+ふくあずは2012年12月から福岡を中心に九州地方で活動を行なっているコミュニティです。
+
+ちょっと興味がある＝ゆるふわな方から実ビジネスで使うんだよねな方まで歓迎。職種はなんでもござれ。
+プログラマ〜企画者、デザイナ、営業、経営者でも歓迎。
+※ゆるふわなコミュニティとお考えください。
