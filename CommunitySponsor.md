@@ -111,3 +111,6 @@ Japan Azure User Group 福岡支部（通称ふくあず）はMicrosoft Azureを
 ちょっと興味がある＝ゆるふわな方から実ビジネスで使うんだよねな方まで歓迎。職種はなんでもござれ。
 プログラマ〜企画者、デザイナ、営業、経営者でも歓迎。
 ※ゆるふわなコミュニティとお考えください。
+
+## [JAWS-UG 福岡](https://jaws-ug-kyushu.doorkeeper.jp/)
+

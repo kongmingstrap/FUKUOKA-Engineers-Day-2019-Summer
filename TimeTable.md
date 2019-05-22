@@ -24,7 +24,7 @@
 | 14:55 - 15:10 | コミュニティスポンサーセッション | 未定 | [GCPUG福岡（Google Cloud Platform User Group Fukuoka）](https://gcpugfukuoka.connpass.com/) |
 | 15:10 - 15:25 | コミュニティスポンサーセッション | 未定 | [Japan Azure User Group 福岡支部（ふくあず）](https://fukuazu.connpass.com/) |
 | 15:25 - 15:40 | コミュニティスポンサーセッション | 未定 | [Fukuoka.Firebase](https://fukuokafirebase.connpass.com/) |
-| 15:40 - 15:55 | コミュニティスポンサーセッション | 未定 | 未定 |
+| 15:40 - 15:55 | コミュニティスポンサーセッション | 未定 | [JAWS-UG 福岡](https://jaws-ug-kyushu.doorkeeper.jp/) |
 | 15:55 - 16:10 | コミュニティスポンサーセッション | 未定 | 未定 |
 | 16:10 - 16:20 |  | 休憩 | |
 | 16:20 - 16:35 | コミュニティスポンサーセッション | 未定 | 未定 |
