@@ -68,7 +68,7 @@
 | 15:10 - 15:25 | コミュニティスポンサーセッション | 未定 | [Japan Azure User Group 福岡支部（ふくあず）](https://fukuazu.connpass.com/) |
 | 15:25 - 15:40 | コミュニティスポンサーセッション | 未定 | [Fukuoka.Firebase](https://fukuokafirebase.connpass.com/) |
 | 15:40 - 15:55 | コミュニティスポンサーセッション | 未定 | [JAWS-UG 福岡](https://jaws-ug-kyushu.doorkeeper.jp/) |
-| 15:55 - 16:10 | コミュニティスポンサーセッション | 未定 | 未定 |
+| 15:55 - 16:10 | コミュニティスポンサーセッション | 未定 | [FukuokaJS](https://fukuokajs.connpass.com/) |
 | 16:10 - 16:20 |  | 休憩 | |
 | 16:20 - 16:35 | コミュニティスポンサーセッション | 未定 | [GDG Kyushu](https://gdg.connpass.com/) |
 | 16:35 - 16:50 | コミュニティスポンサーセッション | 未定 | [福岡ブロックチェーン勉強会](https://ethfuk.connpass.com/) |
@@ -95,6 +95,10 @@
 # コミュニティスポンサー（セッション枠）
 
 ## [福岡XR部](https://fukuoka-xr-club.connpass.com/)
+
+<img src="https://user-images.githubusercontent.com/1201992/58455707-4f118280-815d-11e9-9682-98020776a9e2.png" width="200">
+
+福岡XR部は福岡でVR/AR/MRといったXR技術や表現に興味があるメンバーが集まるコミュニティです。 同じ興味を持つメンバーが部室に集まってわいわいディスカッションしたり教えあったりする雰囲気をイメージして、ミートアップやXRコンテンツを体験したり実験したりするイベントを開催しています。
 
 ## [Fukuoka.rs](https://fukuokars.connpass.com/)
 
@@ -132,9 +136,12 @@ LT会やもくもく会など小規模なイベントを定期的に開催し、
 
 <img src="https://user-images.githubusercontent.com/1201992/58415768-795e3400-80ba-11e9-8eb6-ca26b01b8c3c.png" width="200">
 
-福岡のiOSエンジニア達が主催する、プログラミング言語 Swift とその周辺技術の勉強会です。
-発展を続ける Swift とその周辺技術の動向を追い、初心者/上級者/老若男女を問わず、情報交換の場として機能することを目的としています。
-趣味/仕事で Swift に触れている方、Swiftを用いたiOS開発に携わっている方、これから Swift の勉強をはじめるという方などなど大歓迎です！
+HAKATA.swiftは、Swiftが好きなエンジニアが集まってライトニングトーク、ロングセッションの登壇やもくもく会を通じてSwiftをもっと楽しむコミュニティです。
+
+発表される内容はiOSだけでなく、Swift言語自体の仕様からコンパイラの話、また「Swiftを始めてみた」という初心者のステージなど、数多くのトピックがあります。
+また、参加者は福岡のエンジニアだけでなく、全国からSwift/iOS Geekな方が集まっています。
+
+初心者でも、Swiftを始める良いきっかけにしたいという初心者の方でも、Swiftが気になる人でも、Objective-Cが好きな人やObjective-Cから脱却したい人でも、皆さん大歓迎！ぜひご参加ください！
 
 ## [TFUG Fukuoka](https://tfugfuk.connpass.com/)
 
@@ -184,6 +191,15 @@ GDG KyushuはGoogle関連の技術を学び活用するグループです。
 領域としてはAndoridやクラウド、AI、Firebaseなど幅広い技術を対象にしています。
 もくもく会やLT会などをはじめ、Google I/Oの報告会や秋には温泉合宿等も行なっています。
 興味のある方はぜひご参加ください！
+
+## [FukuokaJS](https://fukuokajs.connpass.com/)
+
+<img src="https://user-images.githubusercontent.com/1201992/58455699-49b43800-815d-11e9-9ade-076a3891e3b8.png" height="200">
+
+フロントエンドからバックエンドまで一貫して記述出来るJavascript。はたまた、3Dコンテンツや、デスクトップアプリ、ネイティブアプリまで。　幅広いがゆえに、いろんな人が使っているJavascriptです。
+
+定期的にJS関連の技術を使うエンジニア／デザイナ／◯◯◯(職業問わず)が集まり、気軽にコミュニケーション出来ればよいなぁと思いコミュニティーを運営しています。 JSは、UI / アニメーション / バックエンド / Webアプリフレームワーク / ネイティブアプリ　などなど、様々な事に関連します。 この場でJSの輪が広がっていくよう願いを込めています。
+
 
 ## コミュニティセッション（サポーター枠）
 
