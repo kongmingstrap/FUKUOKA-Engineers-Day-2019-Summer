@@ -114,6 +114,10 @@ Fukuoka.rs は福岡に住まうRustを愛する人々によるRustを愛する�
 
 ## [#ふくばねてす](https://fukubernetes.connpass.com/)
 
+「#ふくばねてす」は福岡のKubernetes/クラウドネイティブコミュニティです。クラウドネイティブ系のコミュニティはエンプラな雰囲気を纏うところも多い中、ノリと勢いを大事にしています。
+4半期ぐらいに1回ゆるゆると、福岡市内でミートアップをしていく予定です。
+話題としては、Kubernetesはもちろん、その周辺技術のコンテナランタイム自体やCNDFのツールなど、広く取り扱っております。LTからガッツリ技術的なお話まで大歓迎です！
+なお、 [CloudNative Days](https://cloudnativedays.jp/) 後援コミュニティでもあります。
 
 ## [Fukuoka.Firebase](https://fukuokafirebase.connpass.com/)
 
