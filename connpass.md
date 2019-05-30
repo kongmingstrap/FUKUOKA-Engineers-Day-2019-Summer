@@ -111,6 +111,9 @@ Fukuoka.rs は福岡に住まうRustを愛する人々によるRustを愛する�
 
 ## [Fukuoka.rb](https://fukuokarb.connpass.com/)
 
+Fukuoka.rbは福岡周辺のRubyistが集まり、Rubyに関係したり関係しなかったりすることについて活動する地域Rubyistコミュニティです。
+なるべく毎週水曜日にミートアップを設けています。「もくもく会」形式が多いですが、時々LTをしたり、西鉄沿線の美味しいものを食べに行ったりします。
+福岡でRubyを触っている人がプライマリーに立ち寄れる居場所になるようなコミュニティを目指しています。是非お気軽にお越しください。
 
 ## [#ふくばねてす](https://fukubernetes.connpass.com/)
 
