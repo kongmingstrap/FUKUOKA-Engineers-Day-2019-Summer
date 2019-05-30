@@ -61,7 +61,7 @@
 | 13:00 - 13:15 | コミュニティスポンサーセッション | 未定 | [HAKATA.swift](https://hakata-swift.connpass.com/) |
 | 13:15 - 13:30 | コミュニティスポンサーセッション | 未定 | [Fukuoka.rs](https://fukuokars.connpass.com/) |
 | 13:30 - 13:45 | コミュニティスポンサーセッション | 未定 | [Fukuoka.rb](https://fukuokarb.connpass.com/) |
-| 13:45 - 14:00 | コミュニティスポンサーセッション | 未定 | [fukuoka.ex - Elixir community in Fukuoka -](https://fukuokaex.connpass.com/) |
+| 13:45 - 14:00 | コミュニティスポンサーセッション | 未定 | [fukuoka.ex](https://fukuokaex.connpass.com/) |
 | 14:00 - 14:15 | コミュニティスポンサーセッション | 未定 | [Scala福岡](https://scala.connpass.com/) |
 | 14:15 - 14:30 | コミュニティスポンサーセッション | 未定 | [Fukuoka.NET（ふくてん）](https://fukuten.connpass.com/) |
 | 14:30 - 14:40 |  | 休憩 | |
@@ -136,11 +136,23 @@ LT会やもくもく会など小規模なイベントを定期的に開催し、
 ## [JXUG](https://jxug.connpass.com/)
 
 
-## [fukuoka.ex - Elixir community in Fukuoka -](https://fukuokaex.connpass.com/)
+## [fukuoka.ex](https://fukuokaex.connpass.com/)
 
+<img src="https://user-images.githubusercontent.com/1201992/58526814-47101c00-820b-11e9-9b65-57baa9132eb6.png" height="200">
+
+「fukuoka.ex」は、福岡／北九州を中心に、大量アクセスのあるWeb・APIサーバ構築や、ビッグデータ分析／AI・機械学習向けデータ加工といった、「膨大なアクセスやデータの高速処理／安定運用」と「高い開発効率」を両立できるプログラミング言語「Elixir」と、そのWebフレームワーク「Phoenix」を広め、ワイワイと盛り上げていくコミュニティです
+
+SI経験に裏付けられたプロダクション開発ノウハウ、大規模インフラでも通用するスケーラビリティといった実践的なElixirの活用と、GPU／FPGA活用、より軽量なプロセスライブラリ実装、ElixirによるElixirコンパイラ開発といった、先端領域でのElixir研究・活用も、今まさに熱く展開しています
 
 ## [福岡 理学部](https://fukuoka-science.connpass.com/)
 
+<img src="https://user-images.githubusercontent.com/1201992/58526815-47101c00-820b-11e9-86bd-eee8c36c2de6.png" height="200">
+
+福岡 理学部は、様々な理学について、普段の職場ではさらけ出せない知的好奇心と探求心を満たすためのコミュニティで、「理学であれば、テーマはなんだって自由」のフリーダムな雰囲気やダイバージェンスをおもしろおかしく学んでいける仲間作りをしています
+
+物理・数学・自然科学・宇宙・重力・量子力学・オカルト・SFなどが好きであれば楽しめて、「やー、これって絶対、仕事に役立たないよね、ハハハ…（でも面白いし、なんか未来は感じるよね）」というノリで気軽に集まれる場所を作っていきたいです
+
+業務や仕事に役立つ勉強会や集まりは、福岡のそこらかしこで開催されますが、このコミュニティでは、機能性よりも、驚きや発見、エンターテイメント、まだ誰も足を踏み入れていない領域、ヘンな解釈や見方…そういったものを重視し、共に楽しむ時間を共有することに価値や意義を置きます
 
 ## [HAKATA.swift](https://hakata-swift.connpass.com/)
 
