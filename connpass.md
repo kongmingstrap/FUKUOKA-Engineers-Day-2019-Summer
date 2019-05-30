@@ -135,6 +135,7 @@ LT会やもくもく会など小規模なイベントを定期的に開催し、
 
 ## [JXUG](https://jxug.connpass.com/)
 
+TBD
 
 ## [fukuoka.ex](https://fukuokaex.connpass.com/)
 
@@ -174,6 +175,7 @@ TensorFlow User Group (TFUG) は機械学習/深層学習向けのフレーム�
 
 ## [Fukuoka.NET（ふくてん）](https://fukuten.connpass.com/)
 
+TBD
 
 ## [Scala福岡](https://scala.connpass.com/)
 
@@ -183,6 +185,7 @@ Scala福岡は、Scalaを福岡・九州で盛り上げていきたい、まず�
 
 ## [福岡ブロックチェーン勉強会](https://ethfuk.connpass.com/)
 
+TBD
 
 ## [Kyushu Student Association](https://student-kyushu.connpass.com/)
 
@@ -198,12 +201,15 @@ Scala福岡は、Scalaを福岡・九州で盛り上げていきたい、まず�
 
 ## [GCPUG福岡（Google Cloud Platform User Group Fukuoka）](https://gcpugfukuoka.connpass.com/)
 
+TBD
 
 ## [Japan Azure User Group 福岡支部（ふくあず）](https://fukuazu.connpass.com/)
 
+TBD
 
 ## [JAWS-UG 福岡](https://jaws-ug-kyushu.doorkeeper.jp/)
 
+TBD
 
 ## [GDG Kyushu](https://gdg.connpass.com/)
 
