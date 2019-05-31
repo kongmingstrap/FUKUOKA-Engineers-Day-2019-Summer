@@ -4,7 +4,7 @@
 
 ## １．目的
 
-[FUKUOKA Engineers Day](https://engineers-day.connpass.com/event/133003/)（以降、当団体）は、なによりも福岡を愛するエンジニアの皆様のためのコミュニティであるべきだと考えます。
+[FUKUOKA Engineers Day](https://engineers-day.connpass.com/)（以降、当団体）は、なによりも福岡を愛するエンジニアの皆様のためのコミュニティであるべきだと考えます。
 
 このため、私たちは誰に対しても安全で快適な環境を提供できるよう尽力します。
 
