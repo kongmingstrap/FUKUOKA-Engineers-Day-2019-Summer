@@ -19,7 +19,7 @@
 
 福岡の各コミュニティに「コミュニティスポンサー」という形式でご協力いただき、セッションの1枠（15分）を担当していただきます。
 
-**全 20 のコミュニティ** が一堂に会し、技術セッションを行う濃厚なイベントになる予定です！
+**全 22 のコミュニティ** が一堂に会し、技術セッションを行う濃厚なイベントになる予定です！
 
 是非ご参加ください！
 
@@ -53,20 +53,20 @@
 | 10:30 - 10:40 | 未定 | 未定 | 公募セッション |
 | 10:40 - 10:50 | 未定 | 未定 | 公募セッション |
 | 10:50 - 11:00 | 未定 | 未定 | 公募セッション |
-| 11:00 - 11:15 | コミュニティスポンサーセッション | 未定 | TBD |
+| 11:00 - 11:15 | コミュニティスポンサーセッション | 未定 | [JBUG(Japan Backlog User Group)](https://jbug.connpass.com/) |
 | 11:15 - 11:30 | コミュニティスポンサーセッション | 未定 | [Kyushu Student Association](https://student-kyushu.connpass.com/) |
 | 11:30 - 11:45 | コミュニティスポンサーセッション | 未定 | [JXUG](https://jxug.connpass.com/) |
-| 11:45 - 12:00 | コミュニティスポンサーセッション | 未定 | [福岡XR部](https://fukuoka-xr-club.connpass.com/) |
+| 11:45 - 12:00 | [KzoNag](https://connpass.com/user/keizo_nagamine/) | 未定 | [福岡XR部](https://fukuoka-xr-club.connpass.com/) |
 | 12:00 - 13:00 |  | 休憩 | |
-| 13:00 - 13:15 | コミュニティスポンサーセッション | [フレディ](https://connpass.com/user/freddi_kit/) | [HAKATA.swift](https://hakata-swift.connpass.com/) |
+| 13:00 - 13:15 | [フレディ](https://connpass.com/user/freddi_kit/) | 未定 | [HAKATA.swift](https://hakata-swift.connpass.com/) |
 | 13:15 - 13:30 | コミュニティスポンサーセッション | 未定 | [Fukuoka.rs](https://fukuokars.connpass.com/) |
 | 13:30 - 13:45 | コミュニティスポンサーセッション | 未定 | [Fukuoka.rb](https://fukuokarb.connpass.com/) |
 | 13:45 - 14:00 | コミュニティスポンサーセッション | 未定 | [fukuoka.ex](https://fukuokaex.connpass.com/) |
-| 14:00 - 14:15 | コミュニティスポンサーセッション | [ShomaNishitateno](https://connpass.com/user/ShomaNishitateno/) | [Scala福岡](https://scala.connpass.com/) |
+| 14:00 - 14:15 | [ShomaNishitateno](https://connpass.com/user/ShomaNishitateno/) | 未定 | [Scala福岡](https://scala.connpass.com/) |
 | 14:15 - 14:30 | コミュニティスポンサーセッション | 未定 | [Fukuoka.NET（ふくてん）](https://fukuten.connpass.com/) |
 | 14:30 - 14:40 |  | 休憩 | |
-| 14:40 - 14:55 | コミュニティスポンサーセッション | [bond_kaneko](https://connpass.com/user/bond_kaneko/) | [福岡 理学部](https://fukuoka-science.connpass.com/) |
-| 14:55 - 15:10 | コミュニティスポンサーセッション | [Kumano Ryo](https://connpass.com/user/kumano_ryo/) | [GCPUG福岡（Google Cloud Platform User Group Fukuoka）](https://gcpugfukuoka.connpass.com/) |
+| 14:40 - 14:55 | [bond_kaneko](https://connpass.com/user/bond_kaneko/) | 未定 | [福岡 理学部](https://fukuoka-science.connpass.com/) |
+| 14:55 - 15:10 | [Kumano Ryo](https://connpass.com/user/kumano_ryo/) | 未定 | [GCPUG福岡（Google Cloud Platform User Group Fukuoka）](https://gcpugfukuoka.connpass.com/) |
 | 15:10 - 15:25 | コミュニティスポンサーセッション | 未定 | [Japan Azure User Group 福岡支部（ふくあず）](https://fukuazu.connpass.com/) |
 | 15:25 - 15:40 | コミュニティスポンサーセッション | 未定 | [Fukuoka.Firebase](https://fukuokafirebase.connpass.com/) |
 | 15:40 - 15:55 | コミュニティスポンサーセッション | 未定 | [JAWS-UG 福岡](https://jaws-ug-kyushu.doorkeeper.jp/) |
@@ -74,18 +74,20 @@
 | 16:10 - 16:20 |  | 休憩 | |
 | 16:20 - 16:35 | コミュニティスポンサーセッション | 未定 | [GDG Kyushu](https://gdg.connpass.com/) |
 | 16:35 - 16:50 | コミュニティスポンサーセッション | 未定 | [福岡ブロックチェーン勉強会](https://ethfuk.connpass.com/) |
-| 16:50 - 17:05 | コミュニティスポンサーセッション | [Dtahara](https://connpass.com/user/Dtahara/) | [TFUG Fukuoka](https://tfugfuk.connpass.com/) |
+| 16:50 - 17:05 | [Dtahara](https://connpass.com/user/Dtahara/) | 未定 | [TFUG Fukuoka](https://tfugfuk.connpass.com/) |
 | 17:05 - 17:20 | コミュニティスポンサーセッション | 未定 | [#ふくばねてす](https://fukubernetes.connpass.com/) |
-| 17:20 - 17:25 | 未定 | 未定 | 企業スポンサーセッション |
-| 17:25 - 17:30 | 未定 | 未定 | 企業スポンサーセッション |
-| 17:30 - 17:35 | 未定 | 未定 | 企業スポンサーセッション |
-| 17:35 - 17:40 | 未定 | 未定 | 企業スポンサーセッション |
-| 17:40 - 17:45 | 未定 | 未定 | 企業スポンサーセッション |
-| 17:45 - 17:50 | 未定 | 未定 | 企業スポンサーセッション |
-| 17:50 - 18:00 |  | クロージング | |
-| 18:00 - 18:10 |  | 机の片付け | |
-| 18:10 - 19:30 |  | 懇親会 | |
-| 19:30 - 20:00 |  | 片付け | |
+| 17:20 - 17:35 | コミュニティスポンサーセッション | 未定 | TBD |
+| 17:35 - 17:50 | [kis](https://connpass.com/user/kis/) | 未定 | [Javaコミュ＠福岡](https://javaq.connpass.com/) |
+| 17:50 - 18:00 |  | 休憩 |  |
+| 18:00 - 18:05 | 未定 | 未定 | 企業スポンサーセッション |
+| 18:05 - 18:10 | 未定 | 未定 | 企業スポンサーセッション |
+| 18:10 - 18:15 | 未定 | 未定 | 企業スポンサーセッション |
+| 18:15 - 18:20 | 未定 | 未定 | 企業スポンサーセッション |
+| 18:20 - 18:25 | 未定 | 未定 | 企業スポンサーセッション |
+| 18:25 - 18:30 | 未定 | 未定 | 企業スポンサーセッション |
+| 18:30 - 18:40 |  | クロージング | |
+| 18:40 - 20:40 |  | 懇親会 | |
+| 20:40 - 21:00 |  | 片付け・撤収 | |
 
 <font color="Red">※発表順及びセッション内容は変更になる場合もございます。</font>
 
@@ -235,9 +237,18 @@ GDG KyushuはGoogle関連の技術を学び活用するグループです。
 
 定期的にJS関連の技術を使うエンジニア／デザイナ／◯◯◯(職業問わず)が集まり、気軽にコミュニケーション出来ればよいなぁと思いコミュニティーを運営しています。 JSは、UI / アニメーション / バックエンド / Webアプリフレームワーク / ネイティブアプリ　などなど、様々な事に関連します。 この場でJSの輪が広がっていくよう願いを込めています。
 
-## TBD
+## [JBUG(Japan Backlog User Group)](https://jbug.connpass.com/)
 
 TBD
+
+## [Javaコミュ＠福岡](https://javaq.connpass.com/)
+
+TBD
+
+
+## TBD
+
+TBD（最終調整中）
 
 # コミュニティセッション（サポーター枠）
 
