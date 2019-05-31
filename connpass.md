@@ -58,15 +58,15 @@
 | 11:30 - 11:45 | コミュニティスポンサーセッション | 未定 | [JXUG](https://jxug.connpass.com/) |
 | 11:45 - 12:00 | コミュニティスポンサーセッション | 未定 | [福岡XR部](https://fukuoka-xr-club.connpass.com/) |
 | 12:00 - 13:00 |  | 休憩 | |
-| 13:00 - 13:15 | コミュニティスポンサーセッション | 未定 | [HAKATA.swift](https://hakata-swift.connpass.com/) |
+| 13:00 - 13:15 | コミュニティスポンサーセッション | [フレディ](https://connpass.com/user/freddi_kit/) | [HAKATA.swift](https://hakata-swift.connpass.com/) |
 | 13:15 - 13:30 | コミュニティスポンサーセッション | 未定 | [Fukuoka.rs](https://fukuokars.connpass.com/) |
 | 13:30 - 13:45 | コミュニティスポンサーセッション | 未定 | [Fukuoka.rb](https://fukuokarb.connpass.com/) |
 | 13:45 - 14:00 | コミュニティスポンサーセッション | 未定 | [fukuoka.ex](https://fukuokaex.connpass.com/) |
-| 14:00 - 14:15 | コミュニティスポンサーセッション | 未定 | [Scala福岡](https://scala.connpass.com/) |
+| 14:00 - 14:15 | コミュニティスポンサーセッション | [ShomaNishitateno](https://connpass.com/user/ShomaNishitateno/) | [Scala福岡](https://scala.connpass.com/) |
 | 14:15 - 14:30 | コミュニティスポンサーセッション | 未定 | [Fukuoka.NET（ふくてん）](https://fukuten.connpass.com/) |
 | 14:30 - 14:40 |  | 休憩 | |
-| 14:40 - 14:55 | コミュニティスポンサーセッション | 未定 | [福岡 理学部](https://fukuoka-science.connpass.com/) |
-| 14:55 - 15:10 | コミュニティスポンサーセッション | 未定 | [GCPUG福岡（Google Cloud Platform User Group Fukuoka）](https://gcpugfukuoka.connpass.com/) |
+| 14:40 - 14:55 | コミュニティスポンサーセッション | [bond_kaneko](https://connpass.com/user/bond_kaneko/) | [福岡 理学部](https://fukuoka-science.connpass.com/) |
+| 14:55 - 15:10 | コミュニティスポンサーセッション | [Kumano Ryo](https://connpass.com/user/kumano_ryo/) | [GCPUG福岡（Google Cloud Platform User Group Fukuoka）](https://gcpugfukuoka.connpass.com/) |
 | 15:10 - 15:25 | コミュニティスポンサーセッション | 未定 | [Japan Azure User Group 福岡支部（ふくあず）](https://fukuazu.connpass.com/) |
 | 15:25 - 15:40 | コミュニティスポンサーセッション | 未定 | [Fukuoka.Firebase](https://fukuokafirebase.connpass.com/) |
 | 15:40 - 15:55 | コミュニティスポンサーセッション | 未定 | [JAWS-UG 福岡](https://jaws-ug-kyushu.doorkeeper.jp/) |
@@ -74,7 +74,7 @@
 | 16:10 - 16:20 |  | 休憩 | |
 | 16:20 - 16:35 | コミュニティスポンサーセッション | 未定 | [GDG Kyushu](https://gdg.connpass.com/) |
 | 16:35 - 16:50 | コミュニティスポンサーセッション | 未定 | [福岡ブロックチェーン勉強会](https://ethfuk.connpass.com/) |
-| 16:50 - 17:05 | コミュニティスポンサーセッション | 未定 | [TFUG Fukuoka](https://tfugfuk.connpass.com/) |
+| 16:50 - 17:05 | コミュニティスポンサーセッション | [Dtahara](https://connpass.com/user/Dtahara/) | [TFUG Fukuoka](https://tfugfuk.connpass.com/) |
 | 17:05 - 17:20 | コミュニティスポンサーセッション | 未定 | [#ふくばねてす](https://fukubernetes.connpass.com/) |
 | 17:20 - 17:25 | 未定 | 未定 | 企業スポンサーセッション |
 | 17:25 - 17:30 | 未定 | 未定 | 企業スポンサーセッション |
@@ -135,7 +135,11 @@ LT会やもくもく会など小規模なイベントを定期的に開催し、
 
 ## [JXUG](https://jxug.connpass.com/)
 
-TBD
+<img src="https://user-images.githubusercontent.com/1201992/58681141-187a7880-83a6-11e9-81bf-5b84daf69eb5.png" height="200">
+
+JXUG は 2014/2/18 に発足した Xamarin を愛する方のコミュニティです。 
+初心者の方が参加しやすく、上級者の方も気軽に情報交換できる場にするべく、東京だけでなく、福岡をはじめとする日本各地で勉強会などを開催しています。
+福岡でも、もくもく会や勉強会を開催していますので、興味のある方はふるってご参加ください。
 
 ## [fukuoka.ex](https://fukuokaex.connpass.com/)
 
@@ -201,7 +205,10 @@ TBD
 
 ## [GCPUG福岡（Google Cloud Platform User Group Fukuoka）](https://gcpugfukuoka.connpass.com/)
 
-TBD
+<img src="https://user-images.githubusercontent.com/1201992/58681097-e832da00-83a5-11e9-828b-ab920a4d2d94.png" height="200">
+
+Google Cloud Platformのユーザーや使ってみたい方が集まり、事例の共有や勉強を行う会です。
+参加者はエンジニア、プログラマーが多いですが、デザイナーやディレクター、経営者なども参加しています。
 
 ## [Japan Azure User Group 福岡支部（ふくあず）](https://fukuazu.connpass.com/)
 
@@ -232,7 +239,7 @@ GDG KyushuはGoogle関連の技術を学び活用するグループです。
 
 TBD
 
-# コミュニティスポンサー（サポーター枠）
+# コミュニティセッション（サポーター枠）
 
 募集中
 
