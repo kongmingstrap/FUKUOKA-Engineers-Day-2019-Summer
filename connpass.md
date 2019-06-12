@@ -45,25 +45,27 @@
 
 # タイムテーブル
 
+敬称略
+
 | 時間          | スピーカー | タイトル | 枠 |
 |---------------|--------------------|------------|------------|
 | 10:00 - 10:10 | 松村 亮輔[@rxpaki](https://twitter.com/rxpaki) | オープニング | 運営 |
-| 10:10 - 10:20 | 未定 | 未定 | 公募セッション |
-| 10:20 - 10:30 | 未定 | 未定 | 公募セッション |
-| 10:30 - 10:40 | 未定 | 未定 | 公募セッション |
-| 10:40 - 10:50 | 未定 | 未定 | 公募セッション |
-| 10:50 - 11:00 | 未定 | 未定 | 公募セッション |
-| 11:00 - 11:15 | コミュニティスポンサーセッション | 未定 | [JBUG(Japan Backlog User Group)](https://jbug.connpass.com/) |
+| 10:10 - 10:20 | [matsukurou](https://connpass.com/user/mattsuDev/) | スクラム・アジャイル・DevOpsのコミュニティを立ち上げてみた | 公募セッション |
+| 10:20 - 10:30 | [Masaharu TASHIRO](https://connpass.com/user/mshrtsr/) | 未定 | 公募セッション |
+| 10:30 - 10:40 | [MasatoshiNakano](https://connpass.com/user/MasatoshiNakano/) | kubernetesを用いたマイクロサービスな開発の話（仮） | 公募セッション |
+| 10:40 - 10:50 | [yoheikoga](https://connpass.com/user/yohei_koga_1/) | 宇宙関係のエンジニアとして話 | 公募セッション |
+| 10:50 - 11:00 | [gremito](https://connpass.com/user/gremito/) | Unity Fukuokaとして発表 | 公募セッション |
+| 11:00 - 11:15 | [Kazuhiro Uchimura](https://connpass.com/user/KazuhiroUchimura/) | 未定 | [JBUG(Japan Backlog User Group)](https://jbug.connpass.com/) |
 | 11:15 - 11:30 | コミュニティスポンサーセッション | 未定 | [Kyushu Student Association](https://student-kyushu.connpass.com/) |
-| 11:30 - 11:45 | コミュニティスポンサーセッション | 未定 | [JXUG](https://jxug.connpass.com/) |
+| 11:30 - 11:45 | [tafuji](https://connpass.com/user/Takeshi_Fujimoto/) | 未定 | [JXUG](https://jxug.connpass.com/) |
 | 11:45 - 12:00 | [KzoNag](https://connpass.com/user/keizo_nagamine/) | 未定 | [福岡XR部](https://fukuoka-xr-club.connpass.com/) |
 | 12:00 - 13:00 |  | 休憩 | |
 | 13:00 - 13:15 | [フレディ](https://connpass.com/user/freddi_kit/) | 未定 | [HAKATA.swift](https://hakata-swift.connpass.com/) |
-| 13:15 - 13:30 | コミュニティスポンサーセッション | 未定 | [Fukuoka.rs](https://fukuokars.connpass.com/) |
+| 13:15 - 13:30 | [huyuumi](https://connpass.com/user/logicer/) | 未定 | [Fukuoka.rs](https://fukuokars.connpass.com/) |
 | 13:30 - 13:45 | コミュニティスポンサーセッション | 未定 | [Fukuoka.rb](https://fukuokarb.connpass.com/) |
 | 13:45 - 14:00 | コミュニティスポンサーセッション | 未定 | [fukuoka.ex](https://fukuokaex.connpass.com/) |
 | 14:00 - 14:15 | [ShomaNishitateno](https://connpass.com/user/ShomaNishitateno/) | 未定 | [Scala福岡](https://scala.connpass.com/) |
-| 14:15 - 14:30 | コミュニティスポンサーセッション | 未定 | [Fukuoka.NET（ふくてん）](https://fukuten.connpass.com/) |
+| 14:15 - 14:30 | [Yuta Matsumura](https://connpass.com/user/tsubakimoto_s/) | 未定 | [Fukuoka.NET（ふくてん）](https://fukuten.connpass.com/) |
 | 14:30 - 14:40 |  | 休憩 | |
 | 14:40 - 14:55 | [bond_kaneko](https://connpass.com/user/bond_kaneko/) | 未定 | [福岡 理学部](https://fukuoka-science.connpass.com/) |
 | 14:55 - 15:10 | [Kumano Ryo](https://connpass.com/user/kumano_ryo/) | 未定 | [GCPUG福岡（Google Cloud Platform User Group Fukuoka）](https://gcpugfukuoka.connpass.com/) |
@@ -73,10 +75,10 @@
 | 15:55 - 16:10 | コミュニティスポンサーセッション | 未定 | [FukuokaJS](https://fukuokajs.connpass.com/) |
 | 16:10 - 16:20 |  | 休憩 | |
 | 16:20 - 16:35 | コミュニティスポンサーセッション | 未定 | [GDG Kyushu](https://gdg.connpass.com/) |
-| 16:35 - 16:50 | コミュニティスポンサーセッション | 未定 | [福岡ブロックチェーン勉強会](https://ethfuk.connpass.com/) |
+| 16:35 - 16:50 | [谷口耕平](https://connpass.com/user/ran_tan/) | 未定 | [福岡ブロックチェーン勉強会](https://ethfuk.connpass.com/) |
 | 16:50 - 17:05 | [Dtahara](https://connpass.com/user/Dtahara/) | 未定 | [TFUG Fukuoka](https://tfugfuk.connpass.com/) |
 | 17:05 - 17:20 | コミュニティスポンサーセッション | 未定 | [#ふくばねてす](https://fukubernetes.connpass.com/) |
-| 17:20 - 17:35 | コミュニティスポンサーセッション | 未定 | TBD |
+| 17:20 - 17:35 | [Matsuzaki](https://connpass.com/user/matsumana/) | 未定 | [SREコミュニティ@福岡](https://sre-fukuoka.connpass.com/) |
 | 17:35 - 17:50 | [kis](https://connpass.com/user/kis/) | Javaは今でも無償です、という話と最近のJava Webフレームワーク事情 | [Javaコミュ＠福岡](https://javaq.connpass.com/) |
 | 17:50 - 18:00 |  | 休憩 |  |
 | 18:00 - 18:05 | 未定 | 未定 | 企業スポンサーセッション |
@@ -93,6 +95,36 @@
 
 # 企業スポンサー
 
+順不同・敬称略
+
+---
+
+## [株式会社マネーフォワード](https://corp.moneyforward.com/)
+
+
+
+<div style="height: 100px;">
+    <img src="https://raw.githubusercontent.com/kongmingstrap/FUKUOKA-Engineers-Day-2019-Summer/master/Images/Sponsor/moneyforward/corporate_logo_L.png">
+</div>
+
+
+2012年5月に設立。「お金を前へ。人生をもっと前へ。」というミッションを掲げ、すべてのお金の課題解決を目指すFintech企業。主に、個人向けお金の見える化サービス『マネーフォワード ME』やビジネス向けクラウドサービス『マネーフォワード クラウドシリーズ』などを提供。2015年のFintech研究所をきっかけに、Fintech産業の振興や政策提言への働きかけにも貢献するほか、資本業務提携、API連携など金融機関との協業実績も多数ある。2017年9月に東京証券取引所マザーズ市場に上場。
+
+---
+
+## [株式会社メルカリ](https://about.mercari.com/about/)
+
+
+<div style="height: 100px;">
+<img src="https://raw.githubusercontent.com/kongmingstrap/FUKUOKA-Engineers-Day-2019-Summer/master/Images/Sponsor/mercari/mercari_logo_horizontal.png">
+</div>
+
+
+新たな価値を生みだす世界的なマーケットプレイスを創る" メルカリはこのミッションのもと、フリマアプリ「メルカリ」やスマホ決済「メルペイ」などのサービス開発に全力で取り組んでいます！
+
+---
+
+## 調整中
 
 調整中
 
@@ -246,13 +278,18 @@ TBD
 TBD
 
 
-## TBD
+## [SREコミュニティ@福岡](https://sre-fukuoka.connpass.com/)
 
-TBD（最終調整中）
+TBD
 
-# コミュニティセッション（サポーター枠）
+# コミュニティスポンサー（サポーター枠）
 
-募集中
+## [SORACOM UG九州](https://pages.soracom.jp/usergroup.html)
+
+<img src="https://user-images.githubusercontent.com/1201992/58855150-2b19d980-8654-11e9-838d-6d8d22ae510b.png" height="200">
+
+SORACOM User Groupは、IoTプラットフォーム「SORACOM」の情報を知りたい人、使ってみたい人、使っている人、より良い使い方を知りたい人は誰でも参加出来るコミュニティです。
+その九州支部である「SORACOM UG九州」は、3ヶ月に1回程度、九州各地でセミナーやハンズオンを行っています。SORACOMのサービスやIoTに興味のある方は是非ご参加下さい！
 
 # 個人スポンサー
 
@@ -273,3 +310,61 @@ TBD（最終調整中）
 <img border="0" src="https://connpass-tokyo.s3.amazonaws.com/user/83640/f5425b4c2a744e728d2db9c421ce609c.png" width="100" height="100">
 
 不足分は自腹ばい
+
+# 行動規範: Code of Contact
+
+
+
+## １．目的
+
+[FUKUOKA Engineers Day](https://engineers-day.connpass.com/)（以降、当団体）は、なによりも福岡を愛するエンジニアの皆様のためのコミュニティであるべきだと考えます。
+
+このため、私たちは誰に対しても安全で快適な環境を提供できるよう尽力します。
+
+この行動規範では、参加者・登壇者の行動に求めることと、受け入れがたい行為が招く結果について要点をまとめています。
+
+すべての参加者の皆様が、誰にとっても安全で快い体験ができる場所を実現するために協力してくれることを希望します。
+
+## ２．もっとたくさんの福岡の「スゴイ」を増やしたい
+
+この行動規範のもうひとつのゴールは、もっとたくさんの福岡のエンジニアに対外での活動を増やしてもらうことです。
+
+当団体は、より多くの方々に活動内容を知ってもらうほか、各地域のエンジニアに対して福岡への渡航機運を高めていただき、多くのメンターとの出会いの機会を創出することを目指しています。
+
+このゴールを達成するために、当団体ではイベントに関わる様々な情報の共有のほか、この活動を通して多くの方に携わっていただけるような場を創出いたします。
+
+## ３．宣言
+
+- 当団体は、特定の企業の利益のために活動しません
+- 当団体は、参加者の皆様へ過度な金銭の負担を行いません
+- 当団体は、参加者・登壇者の皆様へのリスペクトを忘れません
+
+## ４. 求められる行動
+
+参加者・登壇者の皆様へ、お互いへのリスペクトを忘れず、行動規範に従って行動していただけることを期待します。
+
+## ５. 受け入れがたい行為
+
+### 「受け入れがたい行為」には以下が含まれます。
+
+- 当団体の運営するイベントにおける参加者による威嚇的・迷惑・虐待的・差別的・軽蔑的・屈辱的な行為
+- 特定の技術・団体への誹謗中傷
+
+### 「迷惑行為」には以下が含まれます。
+
+- 性別・性的指向・人種・宗教・障害に関する攻撃的な口頭のコメント
+- プレゼンスライドを含む公的空間においての裸体や性的画像の不適切な使用
+- 本人の許諾を取っていない写真撮影や録音
+- プレゼンその他のイベントに対する継続的な妨害
+- 不適切な身体的接触
+- 歓迎されていない性的な注目
+
+## ６. 受け入れがたい行為を目にした場合・その被害を被った場合
+
+もし自身が受け入れがたい行為にさらされたり、誰かがそのような行為を受けていたり、その他気になることがあったりした場合は、できるだけ早く当団体の運営者にお知らせください。
+
+運営者は、参加者が会場の警備員や地域の警察に連絡するのを手伝ったり、付き添いをしたり、その他の方法で受け入れがたい行為にさらされている方に力を貸すことにより、イベント期間中安心して過ごしていただけるように応対可能です。司会やオーガナイザー以外でも、近くにいる運営スタッフ（多くの場合首からスタッフ用の名札を下げています）へ声をかけてください。
+
+## ７. 適用範囲
+
+イベント参加者すべて (参加者、企業スポンサー、コミュニティスポンサー、運営者、運営スタッフ、スピーカー、メンター、審査員、その他のゲスト) が、全イベント会場およびイベントに関連する行事などにおいてこの行動規範に従うことを期待します。
