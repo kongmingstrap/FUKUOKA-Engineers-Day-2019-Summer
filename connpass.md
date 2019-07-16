@@ -1,4 +1,4 @@
-今年2月に開催したあの **FUKUOKA Engineers Day** をまた開催します！
+去年の2月と9月に開催したあの **FUKUOKA Engineers Day** をまた開催します！
 
 前回の様子はレポートブログをご覧ください。
 
@@ -56,42 +56,60 @@
 | 10:40 - 10:50 | [yoheikoga](https://connpass.com/user/yohei_koga_1/) | 宇宙関係のエンジニアとして話 | 公募セッション |
 | 10:50 - 11:00 | [gremito](https://connpass.com/user/gremito/) | Unity Fukuokaとして発表 | 公募セッション |
 | 11:00 - 11:15 | [Kazuhiro Uchimura](https://connpass.com/user/KazuhiroUchimura/) | 未定 | [JBUG(Japan Backlog User Group)](https://jbug.connpass.com/) |
-| 11:15 - 11:30 | コミュニティスポンサーセッション | 未定 | [Kyushu Student Association](https://student-kyushu.connpass.com/) |
+| 11:15 - 11:30 | [kuroshige](https://connpass.com/user/kuroshige/) | 未定 | [Kyushu Student Association](https://student-kyushu.connpass.com/) |
 | 11:30 - 11:45 | [tafuji](https://connpass.com/user/Takeshi_Fujimoto/) | 未定 | [JXUG](https://jxug.connpass.com/) |
 | 11:45 - 12:00 | [KzoNag](https://connpass.com/user/keizo_nagamine/) | 未定 | [福岡XR部](https://fukuoka-xr-club.connpass.com/) |
-| 12:00 - 13:00 |  | 休憩 | |
-| 13:00 - 13:15 | [フレディ](https://connpass.com/user/freddi_kit/) | 未定 | [HAKATA.swift](https://hakata-swift.connpass.com/) |
-| 13:15 - 13:30 | [huyuumi](https://connpass.com/user/logicer/) | 未定 | [Fukuoka.rs](https://fukuokars.connpass.com/) |
-| 13:30 - 13:45 | コミュニティスポンサーセッション | 未定 | [Fukuoka.rb](https://fukuokarb.connpass.com/) |
-| 13:45 - 14:00 | コミュニティスポンサーセッション | 未定 | [fukuoka.ex](https://fukuokaex.connpass.com/) |
+| 12:00 - 13:00 |  | 休憩（軽食を準備しています） | |
+| 13:00 - 13:15 | [フレディ](https://connpass.com/user/freddi_kit/) | SwiftのEnumから見る「Swifty」なコードについて | [HAKATA.swift](https://hakata-swift.connpass.com/) |
+| 13:15 - 13:30 | [huyuumi](https://connpass.com/user/logicer/) | How Rust keeps repository clean | [Fukuoka.rs](https://fukuokars.connpass.com/) |
+| 13:30 - 13:45 | [oda](https://connpass.com/user/oda-i3/) | 未定 | [Fukuoka.rb](https://fukuokarb.connpass.com/) |
+| 13:45 - 14:00 | [piacere](https://connpass.com/user/piacere/) | 未定 | [fukuoka.ex](https://fukuokaex.connpass.com/) |
 | 14:00 - 14:15 | [ShomaNishitateno](https://connpass.com/user/ShomaNishitateno/) | 未定 | [Scala福岡](https://scala.connpass.com/) |
-| 14:15 - 14:30 | [Yuta Matsumura](https://connpass.com/user/tsubakimoto_s/) | 未定 | [Fukuoka.NET（ふくてん）](https://fukuten.connpass.com/) |
+| 14:15 - 14:30 | [Yuta Matsumura](https://connpass.com/user/tsubakimoto_s/) | ここにいる人がまだそんなに知らないはずの .NET の「イマ」について | [Fukuoka.NET（ふくてん）](https://fukuten.connpass.com/) |
 | 14:30 - 14:40 |  | 休憩 | |
 | 14:40 - 14:55 | [bond_kaneko](https://connpass.com/user/bond_kaneko/) | 未定 | [福岡 理学部](https://fukuoka-science.connpass.com/) |
-| 14:55 - 15:10 | [Kumano Ryo](https://connpass.com/user/kumano_ryo/) | 未定 | [GCPUG福岡（Google Cloud Platform User Group Fukuoka）](https://gcpugfukuoka.connpass.com/) |
-| 15:10 - 15:25 | コミュニティスポンサーセッション | 未定 | [Japan Azure User Group 福岡支部（ふくあず）](https://fukuazu.connpass.com/) |
-| 15:25 - 15:40 | コミュニティスポンサーセッション | 未定 | [Fukuoka.Firebase](https://fukuokafirebase.connpass.com/) |
-| 15:40 - 15:55 | コミュニティスポンサーセッション | 未定 | [JAWS-UG 福岡](https://jaws-ug-kyushu.doorkeeper.jp/) |
-| 15:55 - 16:10 | コミュニティスポンサーセッション | 未定 | [FukuokaJS](https://fukuokajs.connpass.com/) |
+| 14:55 - 15:10 | [Kumano Ryo](https://connpass.com/user/kumano_ryo/) | GCPにおけるサーバーレス | [GCPUG福岡（Google Cloud Platform User Group Fukuoka）](https://gcpugfukuoka.connpass.com/) |
+| 15:10 - 15:25 | [TsukasaKatou](https://connpass.com/user/TsukasaKatou/) | 未定 | [Japan Azure User Group 福岡支部（ふくあず）](https://fukuazu.connpass.com/) |
+| 15:25 - 15:40 | [にし@diffeasy](https://connpass.com/user/takec24/) | 未定 | [Fukuoka.Firebase](https://fukuokafirebase.connpass.com/) |
+| 15:40 - 15:55 | [青柳 英明](https://connpass.com/user/HideakiAoyagi/) | 未定 | [JAWS-UG 福岡](https://jaws-ug-kyushu.doorkeeper.jp/) |
+| 15:55 - 16:10 | [KotaroOkuya](https://connpass.com/user/KotaroOkuya/) | 知っとーと？JSの歴史。 | [FukuokaJS](https://fukuokajs.connpass.com/) |
 | 16:10 - 16:20 |  | 休憩 | |
-| 16:20 - 16:35 | コミュニティスポンサーセッション | 未定 | [GDG Kyushu](https://gdg.connpass.com/) |
-| 16:35 - 16:50 | [谷口耕平](https://connpass.com/user/ran_tan/) | 未定 | [福岡ブロックチェーン勉強会](https://ethfuk.connpass.com/) |
+| 16:20 - 16:35 | [eri](https://connpass.com/user/eri_maeda_336/) | 未定 | [GDG Kyushu](https://gdg.connpass.com/) |
+| 16:35 - 16:50 | [谷口耕平](https://connpass.com/user/ran_tan/) | 未定 |  [GBEC Park](https://gbec.connpass.com/) |
 | 16:50 - 17:05 | [Dtahara](https://connpass.com/user/Dtahara/) | 未定 | [TFUG Fukuoka](https://tfugfuk.connpass.com/) |
-| 17:05 - 17:20 | コミュニティスポンサーセッション | 未定 | [#ふくばねてす](https://fukubernetes.connpass.com/) |
+| 17:05 - 17:20 | [うづら](https://connpass.com/user/udzura/) | 未定 | [#ふくばねてす](https://fukubernetes.connpass.com/) |
 | 17:20 - 17:35 | [Matsuzaki](https://connpass.com/user/matsumana/) | 未定 | [SREコミュニティ@福岡](https://sre-fukuoka.connpass.com/) |
 | 17:35 - 17:50 | [kis](https://connpass.com/user/kis/) | Javaは今でも無償です、という話と最近のJava Webフレームワーク事情 | [Javaコミュ＠福岡](https://javaq.connpass.com/) |
 | 17:50 - 18:00 |  | 休憩 |  |
-| 18:00 - 18:05 | 未定 | 未定 | 企業スポンサーセッション |
-| 18:05 - 18:10 | 未定 | 未定 | 企業スポンサーセッション |
-| 18:10 - 18:15 | 未定 | 未定 | 企業スポンサーセッション |
-| 18:15 - 18:20 | 未定 | 未定 | 企業スポンサーセッション |
-| 18:20 - 18:25 | 未定 | 未定 | 企業スポンサーセッション |
-| 18:25 - 18:30 | 未定 | 未定 | 企業スポンサーセッション |
+| 18:00 - 18:05 | [LINE Fukuoka株式会社](https://linefukuoka.co.jp/) | 未定 | 企業スポンサーセッション |
+| 18:05 - 18:10 | [株式会社マネーフォワード](https://corp.moneyforward.com/) | 未定 | 企業スポンサーセッション |
+| 18:10 - 18:15 | [株式会社メルカリ](https://about.mercari.com/about/) | 未定 | 企業スポンサーセッション |
+| 18:15 - 18:20 | [株式会社ベガコーポレーション](https://www.vega-c.com/) | 未定 | 企業スポンサーセッション |
+| 18:20 - 18:25 | [株式会社diffeasy](https://diffeasy.com/) | 未定 | 企業スポンサーセッション |
+| 18:25 - 18:30 | [株式会社アイキューブドシステムズ](https://www.i3-systems.com/) | 未定 | 企業スポンサーセッション |
 | 18:30 - 18:40 |  | クロージング | |
 | 18:40 - 20:40 |  | 懇親会 | |
 | 20:40 - 21:00 |  | 片付け・撤収 | |
 
 <font color="Red">※発表順及びセッション内容は変更になる場合もございます。</font>
+
+# 企業スポンサー兼会場スポンサー
+
+順不同・敬称略
+
+---
+
+## [LINE Fukuoka株式会社](https://linefukuoka.co.jp/)
+
+<div style="height: 100px;">
+    <img src="https://raw.githubusercontent.com/kongmingstrap/FUKUOKA-Engineers-Day-2019-Summer/master/Images/Sponsor/LINEFukuoka/LINE_logotype_500✕500.jpg" height=300>
+</div>
+
+LINEは「CLOSING THE DISTANCE」世界中の人と人、 人と情報・サービスとの距離を縮めることをミッションに掲げています。ユーザーを感動させる初めての体験、思わず友だちに教えたくなるような驚き「WOW」を創出するための開発を行っています。
+
+※今回の開催では弊社カフェスペースを提供させて頂きました。
+
+---
 
 # 企業スポンサー
 
@@ -100,8 +118,6 @@
 ---
 
 ## [株式会社マネーフォワード](https://corp.moneyforward.com/)
-
-
 
 <div style="height: 100px;">
     <img src="https://raw.githubusercontent.com/kongmingstrap/FUKUOKA-Engineers-Day-2019-Summer/master/Images/Sponsor/moneyforward/corporate_logo_L.png">
@@ -114,19 +130,49 @@
 
 ## [株式会社メルカリ](https://about.mercari.com/about/)
 
-
 <div style="height: 100px;">
-<img src="https://raw.githubusercontent.com/kongmingstrap/FUKUOKA-Engineers-Day-2019-Summer/master/Images/Sponsor/mercari/mercari_logo_horizontal.png">
+<img src="https://raw.githubusercontent.com/kongmingstrap/FUKUOKA-Engineers-Day-2019-Summer/master/Images/Sponsor/mercari/logo_corprate_mercari.png">
 </div>
 
 
-新たな価値を生みだす世界的なマーケットプレイスを創る" メルカリはこのミッションのもと、フリマアプリ「メルカリ」やスマホ決済「メルペイ」などのサービス開発に全力で取り組んでいます！
+"新たな価値を生みだす世界的なマーケットプレイスを創る" メルカリはこのミッションのもと、フリマアプリ「メルカリ」やスマホ決済「メルペイ」などのサービス開発に全力で取り組んでいます！
 
 ---
 
-## 調整中
+## [株式会社ベガコーポレーション](https://www.vega-c.com/)
 
-調整中
+<div style="height: 100px;">
+<img src="https://raw.githubusercontent.com/kongmingstrap/FUKUOKA-Engineers-Day-2019-Summer/master/Images/Sponsor/vega/vega_logo_02.png">
+</div>
+
+
+2004年7月に設立。ファストインテリアブランド「LOWYA（ロウヤ）」は、企画、製造、販売等のECサイトにおける一連のプロセスを自社で行うD2Cビジネスモデル。テイストにとらわれず、常に多様なテイストとトレンドを意識した商品や空間コーディネートを提案。2018年10月～スーパーモデル テイラー・ヒルをイメージキャラクターに起用。その他新規事業である、海外越境ECプラットフォーム「DOKODEMO（ドコデモ）」や家具プラットフォーム「Laig（ライグ）」を運営。2016年6月に、東京証券取引所マザーズ市場へ上場。
+
+
+---
+
+## [株式会社diffeasy](https://diffeasy.com/)
+
+<div style="height: 100px;">
+<img src="https://raw.githubusercontent.com/kongmingstrap/FUKUOKA-Engineers-Day-2019-Summer/master/Images/Sponsor/diffeasy/diffeasy.png" height=300>
+</div>
+
+
+diffeasy(ディフィージー)は「世界中の“むずかしい”を簡単に」を経営理念に掲げて福岡で創業し、４期目をむかえるIT企業です。
+メンバーの幸せと進化を第一優先に、メンバーそれぞれの強みを最大限発揮できるエンジニア・デザイナ集団を目指します。
+
+---
+
+## [株式会社アイキューブドシステムズ](https://www.i3-systems.com/)
+
+<div style="height: 100px;">
+<img src="https://raw.githubusercontent.com/kongmingstrap/FUKUOKA-Engineers-Day-2019-Summer/master/Images/Sponsor/i3systems/i3systems.png">
+</div>
+
+
+福岡のアイキューブドシステムズは、2001年に設立された、働き方や組織の生産性に課題を抱えている法人向けに、クラウドやモバイルの技術を駆使したソリューションを提供している会社です。福岡天神本社で開発されている「 CLOMO 」は、組織でスマートデバイスを管理、運用する際に必須となる SaaS です。「CLOMO」は 2010 年のローンチから、8年連続で国内トップシェアを獲得しています。
+
+---
 
 
 # コミュニティスポンサー（セッション枠）
@@ -213,7 +259,15 @@ TensorFlow User Group (TFUG) は機械学習/深層学習向けのフレーム�
 
 ## [Fukuoka.NET（ふくてん）](https://fukuten.connpass.com/)
 
-TBD
+<img src="https://user-images.githubusercontent.com/1201992/60481623-19fecf80-9cc9-11e9-9e91-d7ee5db26004.png" width="200">
+
+C#やVB.NETなどMicrosoftの.NETに関するコミュニティです。通称「ふくてん」。
+
+以前はC#勉強会福岡という名前で活動していましたが、Microsoftのオープン化に伴って名称変更を行いました。
+
+Microsoftも今では様々なアーキテクトをオープンソースで公開しているため情報が日々新しくなっています。
+
+当コミュニティでは、新しく使ってみたい方からすでに利用している方、よくわからないけど何となく気になる方まで気軽に参加できるコミュニティです。
 
 ## [Scala福岡](https://scala.connpass.com/)
 
@@ -221,9 +275,13 @@ TBD
 
 Scala福岡は、Scalaを福岡・九州で盛り上げていきたい、まずはイベントやってみようじゃないか。 ということで2016年から始まりました。これまで3回の100名規模のイベントを開催し、Scalaを広げたいという思いから、毎回ハンズオンなどの初学者向けコンテンツを準備するなどといった工夫をしています。またScala福岡とは直接関係ありませんが、コミュニティメンバーによって「サルでもわかるScala」という少人数での勉強会を、これまで隔週で70回ほど開催しています。
 
-## [福岡ブロックチェーン勉強会](https://ethfuk.connpass.com/)
+## [GBEC Park](https://gbec.connpass.com/)
 
-TBD
+<img src="https://user-images.githubusercontent.com/1201992/61120316-abdfb700-a4d7-11e9-8a35-6ca5de90f700.png" height="200">
+
+GBEC Parkは福岡のブロックチェーンに関わる技術者が集まるコミュニティです。
+ブロックチェーンへの興味・関心があれば誰でも参加可能です。
+2018年より『福岡ブロックチェーン勉強会・もくもく会』を隔週で開催しています。The company中洲川端店を拠点に活動をしています。
 
 ## [Kyushu Student Association](https://student-kyushu.connpass.com/)
 
@@ -246,11 +304,24 @@ Google Cloud Platformのユーザーや使ってみたい方が集まり、事�
 
 ## [Japan Azure User Group 福岡支部（ふくあず）](https://fukuazu.connpass.com/)
 
-TBD
+<img src="https://user-images.githubusercontent.com/1201992/60481619-18350c00-9cc9-11e9-9e9e-7f9c62a5f25a.png" height="200">
+
+Japan Azure User Group (通称JAZUG) は、Microsoft Azureを学び、楽しみ、活かす、日本のユーザーグループです。
+ちょっと興味がある＝ゆるふわな方 から 実ビジネスで使うんだよね な方まで歓迎。 職種はなんでもござれ。 ※プログラマ~企画者、デザイナ歓迎。ゆるふわなコミュニティとお考えください。
+ふくあずの愛称で親しまれているJAZUG福岡は福岡を中心に九州地区で活動しております。
 
 ## [JAWS-UG 福岡](https://jaws-ug-kyushu.doorkeeper.jp/)
 
-TBD
+<img src="https://user-images.githubusercontent.com/1201992/59402953-98a7d180-8ddb-11e9-867a-4179b0320358.png" height="200">
+
+全国に70以上の支部を持つ AWS (Amazon Web Services) ユーザーグループの福岡支部です。
+AWSをバリバリ使いこなしているベテランから、これから始めようとしている初心者まで、幅広い方々が参加されています。
+
+主な活動内容<br>
+・「乾杯！」から始まるちょっと濃い目の勉強会 (年2～3回開催)<br>
+・毎週木曜日は「もくもく会」を開催。ゆる～く集まって、自習したり雑談したりしています。<br>
+
+興味のある方は、是非ご参加ください。「もくもく会」へのチョイ参加、ひやかし、大歓迎！
 
 ## [GDG Kyushu](https://gdg.connpass.com/)
 
@@ -271,7 +342,21 @@ GDG KyushuはGoogle関連の技術を学び活用するグループです。
 
 ## [JBUG(Japan Backlog User Group)](https://jbug.connpass.com/)
 
-TBD
+<img src="https://user-images.githubusercontent.com/1201992/60419579-9a1d2a80-9c20-11e9-8bce-8b66e6eb3f43.png" height="200">
+
+JBUG（Japan Backlog User Group）「ジェイバグ」は、Backlog ユーザーによる、プロジェクト管理について学ぶコミュニティです。
+
+プロジェクト管理は、全ての業種/職種において必須のスキルである一方、そのノウハウが学べる場はあまり多くありません。
+Backlog は国内最大級のプロジェクト管理ツールであり、すでに100万人を超えるユーザーがいることから「プロジェクト管理」「仕事のうまい進め方」に関する知識やテクニック、ノウハウを学び合うことをねらいとして、JBUG が発足されました。
+
+2017年6月の発足以降、先月2019年6月の2年間で、全国7拠点以上で30回以上のイベントが開催され、のべ参加人数は700名を超えました。
+また今年2019年1月、参加者300人規模のイベント「Backlog World 2019」を JBUG が主催しました。
+
+私達は、実体験から学んだ知見やノウハウのシェアを通し、より「働くを楽しくする」を実現したいと思っています。
+
+ちなみに。
+↑ のキャラクターは JBUG 公式キャラクター「ジェイビー」です！よろしくお願いします！！
+
 
 ## [Javaコミュ＠福岡](https://javaq.connpass.com/)
 
@@ -290,6 +375,26 @@ TBD
 
 SORACOM User Groupは、IoTプラットフォーム「SORACOM」の情報を知りたい人、使ってみたい人、使っている人、より良い使い方を知りたい人は誰でも参加出来るコミュニティです。
 その九州支部である「SORACOM UG九州」は、3ヶ月に1回程度、九州各地でセミナーやハンズオンを行っています。SORACOMのサービスやIoTに興味のある方は是非ご参加下さい！
+
+## [VUI Fukuoka](https://vuifukuoka.connpass.com/)
+
+<img src="https://user-images.githubusercontent.com/1201992/59498358-3e3c6d00-8ed0-11e9-8ca7-30b311c21612.png" height="200">
+
+Amazon Echo(Alexa)、LINE Clova、Google Homeなど
+VUIに関する情報交換の場にしたいと思います。
+ハンズオンからもくもく会までやっていきます。
+
+## [わんくま同盟](http://www.wankuma.com/?fbclid=IwAR0Py8DUaTizrb2_0YWoP17P54fiBBNVc40B4SE68vBX2dDgBZYQXAMlijc)
+
+<img src="https://user-images.githubusercontent.com/1201992/59502409-a727e300-8ed8-11e9-8827-0c6f0b13cea8.gif" height="100">
+
+わんくま同盟とは？
+わんくま同盟は、コミュニティで活動している者たちの集団です。
+
+縦の繋がりはなく、横の繋がりで成り立っています。
+メンバは全員平等であり自由です。
+
+みなさんも一緒に情報発信をしていきましょう。
 
 # 個人スポンサー
 
