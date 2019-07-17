@@ -62,7 +62,7 @@
 | 12:00 - 13:00 |  | 休憩（軽食を準備しています） | |
 | 13:00 - 13:15 | [フレディ](https://connpass.com/user/freddi_kit/) | SwiftのEnumから見る「Swifty」なコードについて | [HAKATA.swift](https://hakata-swift.connpass.com/) |
 | 13:15 - 13:30 | [huyuumi](https://connpass.com/user/logicer/) | How Rust keeps repository clean | [Fukuoka.rs](https://fukuokars.connpass.com/) |
-| 13:30 - 13:45 | [oda](https://connpass.com/user/oda-i3/) | 未定 | [Fukuoka.rb](https://fukuokarb.connpass.com/) |
+| 13:30 - 13:45 | [oda](https://connpass.com/user/oda-i3/) | Fukuoka.rb 2019 年度上半期活動報告 〜時々 Azure AD Library〜 | [Fukuoka.rb](https://fukuokarb.connpass.com/) |
 | 13:45 - 14:00 | [piacere](https://connpass.com/user/piacere/) | 未定 | [fukuoka.ex](https://fukuokaex.connpass.com/) |
 | 14:00 - 14:15 | [ShomaNishitateno](https://connpass.com/user/ShomaNishitateno/) | 未定 | [Scala福岡](https://scala.connpass.com/) |
 | 14:15 - 14:30 | [Yuta Matsumura](https://connpass.com/user/tsubakimoto_s/) | ここにいる人がまだそんなに知らないはずの .NET の「イマ」について | [Fukuoka.NET（ふくてん）](https://fukuten.connpass.com/) |
@@ -86,7 +86,7 @@
 | 18:10 - 18:15 | [株式会社メルカリ](https://about.mercari.com/about/) | 未定 | 企業スポンサーセッション |
 | 18:15 - 18:20 | [株式会社ベガコーポレーション](https://www.vega-c.com/) | 未定 | 企業スポンサーセッション |
 | 18:20 - 18:25 | [株式会社diffeasy](https://diffeasy.com/) | 未定 | 企業スポンサーセッション |
-| 18:25 - 18:30 | [株式会社アイキューブドシステムズ](https://www.i3-systems.com/) | 未定 | 企業スポンサーセッション |
+| 18:25 - 18:30 | [株式会社アイキューブドシステムズ](https://www.i3-systems.com/) | 5 分で分かるアイキューブドシステムズ | 企業スポンサーセッション |
 | 18:30 - 18:40 |  | クロージング | |
 | 18:40 - 20:40 |  | 懇親会 | |
 | 20:40 - 21:00 |  | 片付け・撤収 | |
