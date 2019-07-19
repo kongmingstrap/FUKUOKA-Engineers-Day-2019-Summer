@@ -51,7 +51,7 @@
 |---------------|--------------------|------------|------------|
 | 10:00 - 10:10 | 松村 亮輔[@rxpaki](https://twitter.com/rxpaki) | オープニング | 運営 |
 | 10:10 - 10:20 | [matsukurou](https://connpass.com/user/mattsuDev/) | スクラム・アジャイル・DevOpsのコミュニティを立ち上げてみた | 公募セッション |
-| 10:20 - 10:30 | [Masaharu TASHIRO](https://connpass.com/user/mshrtsr/) | 未定 | 公募セッション |
+| 10:20 - 10:30 | [Masaharu TASHIRO](https://connpass.com/user/mshrtsr/) | docker swarmで始めるゆるふわオーケストレーション（仮） | 公募セッション |
 | 10:30 - 10:40 | [MasatoshiNakano](https://connpass.com/user/MasatoshiNakano/) | kubernetesを用いたマイクロサービスな開発の話（仮） | 公募セッション |
 | 10:40 - 10:50 | [yoheikoga](https://connpass.com/user/yohei_koga_1/) | 宇宙関係のエンジニアとして話 | 公募セッション |
 | 10:50 - 11:00 | [gremito](https://connpass.com/user/gremito/) | Unity Fukuokaとして発表 | 公募セッション |
@@ -69,23 +69,23 @@
 | 14:30 - 14:40 |  | 休憩 | |
 | 14:40 - 14:55 | [bond_kaneko](https://connpass.com/user/bond_kaneko/) | 未定 | [福岡 理学部](https://fukuoka-science.connpass.com/) |
 | 14:55 - 15:10 | [Kumano Ryo](https://connpass.com/user/kumano_ryo/) | GCPにおけるサーバーレス | [GCPUG福岡（Google Cloud Platform User Group Fukuoka）](https://gcpugfukuoka.connpass.com/) |
-| 15:10 - 15:25 | [TsukasaKatou](https://connpass.com/user/TsukasaKatou/) | 未定 | [Japan Azure User Group 福岡支部（ふくあず）](https://fukuazu.connpass.com/) |
-| 15:25 - 15:40 | [にし@diffeasy](https://connpass.com/user/takec24/) | 未定 | [Fukuoka.Firebase](https://fukuokafirebase.connpass.com/) |
-| 15:40 - 15:55 | [青柳 英明](https://connpass.com/user/HideakiAoyagi/) | 未定 | [JAWS-UG 福岡](https://jaws-ug-kyushu.doorkeeper.jp/) |
+| 15:10 - 15:25 | [TsukasaKatou](https://connpass.com/user/TsukasaKatou/) | Container deployment on Azure | [Japan Azure User Group 福岡支部（ふくあず）](https://fukuazu.connpass.com/) |
+| 15:25 - 15:40 | [にし@diffeasy](https://connpass.com/user/takec24/) | Firebaseで楽しくWebアプリ開発(仮) | [Fukuoka.Firebase](https://fukuokafirebase.connpass.com/) |
+| 15:40 - 15:55 | 未定 | 未定 | [JAWS-UG 福岡](https://jaws-ug-kyushu.doorkeeper.jp/) |
 | 15:55 - 16:10 | [KotaroOkuya](https://connpass.com/user/KotaroOkuya/) | 知っとーと？JSの歴史。 | [FukuokaJS](https://fukuokajs.connpass.com/) |
 | 16:10 - 16:20 |  | 休憩 | |
 | 16:20 - 16:35 | [eri](https://connpass.com/user/eri_maeda_336/) | 未定 | [GDG Kyushu](https://gdg.connpass.com/) |
 | 16:35 - 16:50 | [谷口耕平](https://connpass.com/user/ran_tan/) | 未定 |  [GBEC Park](https://gbec.connpass.com/) |
 | 16:50 - 17:05 | [Dtahara](https://connpass.com/user/Dtahara/) | 未定 | [TFUG Fukuoka](https://tfugfuk.connpass.com/) |
-| 17:05 - 17:20 | [うづら](https://connpass.com/user/udzura/) | 未定 | [#ふくばねてす](https://fukubernetes.connpass.com/) |
-| 17:20 - 17:35 | [Matsuzaki](https://connpass.com/user/matsumana/) | 未定 | [SREコミュニティ@福岡](https://sre-fukuoka.connpass.com/) |
+| 17:05 - 17:20 | [うづら](https://connpass.com/user/udzura/) | #ふくばねてす と microk8s のご紹介 | [#ふくばねてす](https://fukubernetes.connpass.com/) |
+| 17:20 - 17:35 | [Matsuzaki](https://connpass.com/user/matsumana/) | ArmeriaとCentral Dogmaから学ぶ、マイクロサービスに必要な機能 | [SREコミュニティ@福岡](https://sre-fukuoka.connpass.com/) |
 | 17:35 - 17:50 | [kis](https://connpass.com/user/kis/) | Javaは今でも無償です、という話と最近のJava Webフレームワーク事情 | [Javaコミュ＠福岡](https://javaq.connpass.com/) |
 | 17:50 - 18:00 |  | 休憩 |  |
 | 18:00 - 18:05 | [LINE Fukuoka株式会社](https://linefukuoka.co.jp/) | 未定 | 企業スポンサーセッション |
 | 18:05 - 18:10 | [株式会社マネーフォワード](https://corp.moneyforward.com/) | 未定 | 企業スポンサーセッション |
 | 18:10 - 18:15 | [株式会社メルカリ](https://about.mercari.com/about/) | 未定 | 企業スポンサーセッション |
 | 18:15 - 18:20 | [株式会社ベガコーポレーション](https://www.vega-c.com/) | 未定 | 企業スポンサーセッション |
-| 18:20 - 18:25 | [株式会社diffeasy](https://diffeasy.com/) | 未定 | 企業スポンサーセッション |
+| 18:20 - 18:25 | [株式会社diffeasy](https://diffeasy.com/) | "むずかしい"を簡単にしてきたdiffeasyの４年間 | 企業スポンサーセッション |
 | 18:25 - 18:30 | [株式会社アイキューブドシステムズ](https://www.i3-systems.com/) | 5 分で分かるアイキューブドシステムズ | 企業スポンサーセッション |
 | 18:30 - 18:40 |  | クロージング | |
 | 18:40 - 20:40 |  | 懇親会 | |
@@ -191,11 +191,15 @@ Fukuoka.rs は福岡に住まうRustを愛する人々によるRustを愛する�
 
 ## [Fukuoka.rb](https://fukuokarb.connpass.com/)
 
+<img src="https://user-images.githubusercontent.com/7193065/61506846-72023980-aa1e-11e9-9227-ce922d8e94ee.jpg" width="200">
+
 Fukuoka.rbは福岡周辺のRubyistが集まり、Rubyに関係したり関係しなかったりすることについて活動する地域Rubyistコミュニティです。
 なるべく毎週水曜日にミートアップを設けています。「もくもく会」形式が多いですが、時々LTをしたり、西鉄沿線の美味しいものを食べに行ったりします。
 福岡でRubyを触っている人がプライマリーに立ち寄れる居場所になるようなコミュニティを目指しています。是非お気軽にお越しください。
 
 ## [#ふくばねてす](https://fukubernetes.connpass.com/)
+
+<img src="https://user-images.githubusercontent.com/7193065/61506845-72023980-aa1e-11e9-9874-61a98b4c51b8.png" width="200">
 
 「#ふくばねてす」は福岡のKubernetes/クラウドネイティブコミュニティです。クラウドネイティブ系のコミュニティはエンプラな雰囲気を纏うところも多い中、ノリと勢いを大事にしています。
 4半期ぐらいに1回ゆるゆると、福岡市内でミートアップをしていく予定です。
@@ -365,7 +369,9 @@ TBD
 
 ## [SREコミュニティ@福岡](https://sre-fukuoka.connpass.com/)
 
-TBD
+SREコミュニティ@福岡は、SRE(Site Reliability Engineering)に関するノウハウの共有や、議論をするためのコミュニティです。 数ヶ月に1回、meetupを開催しています。 
+
+SREとは？ https://landing.google.com/sre/
 
 # コミュニティスポンサー（サポーター枠）
 
